@@ -66,34 +66,34 @@ git clone <URL_del_repositorio>
  2. Obtener los últimos cambios de un repositorio remoto
 git pull
 
- Resumen de Comandos Básicos
+Resumen de Comandos Básicos
 
- Iniciar un repositorio
+Iniciar un repositorio
 git init
 
- Agregar archivos
+Agregar archivos
 git add . o git add <archivo>
 
- Realizar un commit
+Realizar un commit
 git commit -m "mensaje"
 
- Ver ramas
+Ver ramas
 git branch
 
- Cambiar de rama
+Cambiar de rama
 git checkout <rama>
 
- Crear y cambiar a nueva rama
+Crear y cambiar a nueva rama
 git checkout -b <rama>
 
  Eliminar una rama
 git branch -d <rama>
 
- Subir cambios
+Subir cambios sin una rama enlazada
 git push -u origin <rama>
 
- Clonar un repositorio
+Clonar un repositorio
 git clone <URL>
 
- Obtener cambios del repositorio remoto
+Obtener cambios del repositorio remoto
 git pull
