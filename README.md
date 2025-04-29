@@ -49,7 +49,7 @@ git branch
 Para eliminar una rama localmente:
 git branch -d <nombre_de_la_rama>
 
-# 6. Enlazar una rama a un repositorio remoto
+6. Enlazar una rama a un repositorio remoto
  Si has creado una nueva rama y necesitas enlazarla a tu repositorio remoto, utiliza:
 git push -u origin <nombre_de_la_rama>
 
